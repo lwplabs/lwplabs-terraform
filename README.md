@@ -1,2 +1,2 @@
-# azure-tf
-repository to learn terraform on azure
+# AWS-tf
+repository to learn terraform on AWS
