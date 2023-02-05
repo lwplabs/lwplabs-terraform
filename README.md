@@ -1,2 +1,2 @@
-# lwplabs-terraform
-practice code for terraform
+# azure-tf
+repository to learn terraform on azure
